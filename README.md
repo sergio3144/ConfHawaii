@@ -15,7 +15,7 @@
     <li>Información de sus respectivos colaboradores
       
 <h4> 📁 Acceso al proyecto (link) 👇<h3>
-   <h5> https://sergio3144.github.io/contador/
+   <h5> https://sergio3144.github.io/ConfHawaii/
 <h4> 🔥 Tecnologías utilizadas <h4>
 
   <ul>
